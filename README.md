@@ -1,4 +1,4 @@
 js
 ==
 
-Sub - Repo for JS related stuff 
+Sub - Repo for JS related stuff.
